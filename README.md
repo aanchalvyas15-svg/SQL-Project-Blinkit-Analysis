@@ -70,8 +70,7 @@ The project covers database creation, data manipulation, and advanced querying t
 
 ## 📄 Project Documentation
 👉 **Complete SQL queries with screenshots and outputs:**  
-[View Project PDF](documentation/Sql%20Project%20of%20Blinkit.pdf)
-
+[View Project PDF](Sql%20Project%20of%20Blinkit.pdf)
 ---
 
 ## 🎯 Conclusion
